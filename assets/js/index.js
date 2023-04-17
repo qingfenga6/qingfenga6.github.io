@@ -1,4 +1,4 @@
-console.log("感谢您的浏览，期待能够加入贵公司！我的网站：http://www.x6d.com/");
+// console.log("感谢您的浏览，期待能够加入贵公司！我的网站：http://www.x6d.com/");
 //鼠标点击出现爱心特效
 (function (window, document, undefined) {
   var hearts = [];
